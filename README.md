@@ -1,6 +1,6 @@
-# ZCoder
+# CodeCatalyst
 
-ZCoder is a dynamic coding platform designed to help developers practice coding problems, share solutions, and receive feedback from the community. This application supports multiple programming languages and provides a feature-rich interface for coding enthusiasts.
+CodeCatalyst is a dynamic coding platform designed to help developers practice coding problems, share solutions, and receive feedback from the community. This application supports multiple programming languages and provides a feature-rich interface for coding enthusiasts.
 
 ## Features
 
